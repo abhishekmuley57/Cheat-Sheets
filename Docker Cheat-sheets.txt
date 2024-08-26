@@ -1,4 +1,4 @@
-Docker Cheet sheets
+Docker Cheat sheets
 -----
 
 1. Docker Basics
